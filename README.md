@@ -9,6 +9,7 @@
 | [0231-power-of-two](https://github.com/shakthii24/Leetcode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/shakthii24/Leetcode/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/shakthii24/Leetcode/tree/master/0326-power-of-three) |
+| [0829-consecutive-numbers-sum](https://github.com/shakthii24/Leetcode/tree/master/0829-consecutive-numbers-sum) |
 ## Recursion
 |  |
 | ------- |
@@ -27,6 +28,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/shakthii24/Leetcode/tree/master/0204-count-primes) |
+| [0829-consecutive-numbers-sum](https://github.com/shakthii24/Leetcode/tree/master/0829-consecutive-numbers-sum) |
 ## Number Theory
 |  |
 | ------- |
