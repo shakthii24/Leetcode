@@ -24,6 +24,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/shakthii24/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/shakthii24/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/shakthii24/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/shakthii24/Leetcode/tree/master/0018-4sum) |
@@ -60,6 +61,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/shakthii24/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/shakthii24/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/shakthii24/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/shakthii24/Leetcode/tree/master/0018-4sum) |
@@ -96,4 +98,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shakthii24/Leetcode/tree/master/0169-majority-element) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/shakthii24/Leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
