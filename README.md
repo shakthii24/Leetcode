@@ -33,6 +33,7 @@
 | [0035-search-insert-position](https://github.com/shakthii24/Leetcode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/shakthii24/Leetcode/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/shakthii24/Leetcode/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/shakthii24/Leetcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shakthii24/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/shakthii24/Leetcode/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/shakthii24/Leetcode/tree/master/0204-count-primes) |
@@ -67,6 +68,7 @@
 | [0018-4sum](https://github.com/shakthii24/Leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shakthii24/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shakthii24/Leetcode/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/shakthii24/Leetcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shakthii24/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
 |  |
@@ -89,6 +91,7 @@
 | [0015-3sum](https://github.com/shakthii24/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/shakthii24/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/shakthii24/Leetcode/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/shakthii24/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/shakthii24/Leetcode/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -102,4 +105,12 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/shakthii24/Leetcode/tree/master/0011-container-with-most-water) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/shakthii24/Leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/shakthii24/Leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
