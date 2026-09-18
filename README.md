@@ -39,6 +39,7 @@
 | [0204-count-primes](https://github.com/shakthii24/Leetcode/tree/master/0204-count-primes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shakthii24/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0881-boats-to-save-people](https://github.com/shakthii24/Leetcode/tree/master/0881-boats-to-save-people) |
+| [0977-squares-of-a-sorted-array](https://github.com/shakthii24/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Enumeration
 |  |
 | ------- |
@@ -73,6 +74,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shakthii24/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0392-is-subsequence](https://github.com/shakthii24/Leetcode/tree/master/0392-is-subsequence) |
 | [0881-boats-to-save-people](https://github.com/shakthii24/Leetcode/tree/master/0881-boats-to-save-people) |
+| [0977-squares-of-a-sorted-array](https://github.com/shakthii24/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -97,6 +99,7 @@
 | [0075-sort-colors](https://github.com/shakthii24/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/shakthii24/Leetcode/tree/master/0169-majority-element) |
 | [0881-boats-to-save-people](https://github.com/shakthii24/Leetcode/tree/master/0881-boats-to-save-people) |
+| [0977-squares-of-a-sorted-array](https://github.com/shakthii24/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Counting
 |  |
 | ------- |
