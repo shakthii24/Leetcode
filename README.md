@@ -38,6 +38,7 @@
 | [0169-majority-element](https://github.com/shakthii24/Leetcode/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/shakthii24/Leetcode/tree/master/0204-count-primes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shakthii24/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/shakthii24/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0643-maximum-average-subarray-i](https://github.com/shakthii24/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0881-boats-to-save-people](https://github.com/shakthii24/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/shakthii24/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -74,6 +75,7 @@
 | [0075-sort-colors](https://github.com/shakthii24/Leetcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shakthii24/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0392-is-subsequence](https://github.com/shakthii24/Leetcode/tree/master/0392-is-subsequence) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/shakthii24/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0881-boats-to-save-people](https://github.com/shakthii24/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0925-long-pressed-name](https://github.com/shakthii24/Leetcode/tree/master/0925-long-pressed-name) |
 | [0977-squares-of-a-sorted-array](https://github.com/shakthii24/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -100,6 +102,7 @@
 | [0018-4sum](https://github.com/shakthii24/Leetcode/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/shakthii24/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/shakthii24/Leetcode/tree/master/0169-majority-element) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/shakthii24/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0881-boats-to-save-people](https://github.com/shakthii24/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/shakthii24/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Counting
@@ -114,6 +117,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/shakthii24/Leetcode/tree/master/0011-container-with-most-water) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/shakthii24/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0881-boats-to-save-people](https://github.com/shakthii24/Leetcode/tree/master/0881-boats-to-save-people) |
 ## Quicksort
 |  |
@@ -140,4 +144,12 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/shakthii24/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+## Stack
+|  |
+| ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/shakthii24/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/shakthii24/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 <!---LeetCode Topics End-->
