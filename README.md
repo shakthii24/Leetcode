@@ -38,6 +38,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shakthii24/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/shakthii24/Leetcode/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/shakthii24/Leetcode/tree/master/0204-count-primes) |
+| [0209-minimum-size-subarray-sum](https://github.com/shakthii24/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shakthii24/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/shakthii24/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0643-maximum-average-subarray-i](https://github.com/shakthii24/Leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -86,6 +87,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/shakthii24/Leetcode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shakthii24/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/shakthii24/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -149,6 +151,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shakthii24/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/shakthii24/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/shakthii24/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 ## Stack
 |  |
@@ -160,4 +163,8 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shakthii24/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/shakthii24/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/shakthii24/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
