@@ -20,6 +20,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/shakthii24/Leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/shakthii24/Leetcode/tree/master/0231-power-of-two) |
 ## Array
 |  |
@@ -35,6 +36,7 @@
 | [0042-trapping-rain-water](https://github.com/shakthii24/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/shakthii24/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/shakthii24/Leetcode/tree/master/0075-sort-colors) |
+| [0136-single-number](https://github.com/shakthii24/Leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shakthii24/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/shakthii24/Leetcode/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/shakthii24/Leetcode/tree/master/0204-count-primes) |
