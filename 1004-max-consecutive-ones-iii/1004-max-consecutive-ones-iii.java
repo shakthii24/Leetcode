@@ -3,10 +3,10 @@ class Solution {
         int frequency = 0;
         int right = 0;
         int left = 0;
-        int maxWindowSize = Integer.MIN_VALUE;
+        int maxWindowSize = 0;
 
         while(right < nums.length){
-            if(nums[right] == 1) frequency++;
+            frequency += nums[right];
 
             int currentWindowSize = right - left + 1;
 
