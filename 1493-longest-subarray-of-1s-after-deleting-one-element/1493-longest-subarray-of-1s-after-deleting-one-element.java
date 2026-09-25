@@ -20,6 +20,6 @@ class Solution {
 
             right++;
         }
-        return maxWindow == nums.length ? maxWindow - 1 : maxWindow;
+        return maxWindow;
     }
 }
