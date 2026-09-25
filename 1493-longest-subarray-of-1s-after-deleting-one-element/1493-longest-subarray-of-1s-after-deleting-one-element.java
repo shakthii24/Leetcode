@@ -16,11 +16,7 @@ class Solution {
                 currentWindow = right - left + 1;
             }
 
-            if(currentWindow - ones == 0){
-                maxWindow = Math.max(maxWindow, currentWindow);
-            }else if(currentWindow - ones == 1 ){
-               maxWindow = Math.max(maxWindow, currentWindow - 1);
-            }
+            maxWindow = Math.max(maxWindow, currentWindow - 1);
 
             right++;
         }
