@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/shakthii24/Leetcode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/shakthii24/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/shakthii24/Leetcode/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/shakthii24/Leetcode/tree/master/0204-count-primes) |
