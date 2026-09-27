@@ -45,6 +45,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/shakthii24/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/shakthii24/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0303-range-sum-query-immutable](https://github.com/shakthii24/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/shakthii24/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shakthii24/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/shakthii24/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0643-maximum-average-subarray-i](https://github.com/shakthii24/Leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -194,6 +195,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/shakthii24/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/shakthii24/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/shakthii24/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [1004-max-consecutive-ones-iii](https://github.com/shakthii24/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Queue
 |  |
@@ -215,4 +217,9 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/shakthii24/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/shakthii24/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
+## Matrix
+|  |
+| ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/shakthii24/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 <!---LeetCode Topics End-->
