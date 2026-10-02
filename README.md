@@ -8,6 +8,7 @@
 | [0009-palindrome-number](https://github.com/shakthii24/Leetcode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/shakthii24/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/shakthii24/Leetcode/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/shakthii24/Leetcode/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/shakthii24/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/shakthii24/Leetcode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/shakthii24/Leetcode/tree/master/0263-ugly-number) |
@@ -176,6 +177,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/shakthii24/Leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/shakthii24/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/shakthii24/Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shakthii24/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/shakthii24/Leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/shakthii24/Leetcode/tree/master/0509-fibonacci-number) |
@@ -247,6 +249,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/shakthii24/Leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/shakthii24/Leetcode/tree/master/0509-fibonacci-number) |
 ## Pigeonhole Principle
 |  |
