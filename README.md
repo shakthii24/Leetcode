@@ -165,6 +165,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/shakthii24/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/shakthii24/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/shakthii24/Leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/shakthii24/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/shakthii24/Leetcode/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/shakthii24/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shakthii24/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -176,6 +177,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/shakthii24/Leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/shakthii24/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/shakthii24/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/shakthii24/Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shakthii24/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -202,6 +204,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shakthii24/Leetcode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/shakthii24/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/shakthii24/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/shakthii24/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Monotonic Stack
@@ -260,6 +263,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/shakthii24/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/shakthii24/Leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/shakthii24/Leetcode/tree/master/0032-longest-valid-parentheses) |
 ## Backtracking
 |  |
 | ------- |
