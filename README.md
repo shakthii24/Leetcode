@@ -150,6 +150,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/shakthii24/Leetcode/tree/master/0011-container-with-most-water) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/shakthii24/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0678-valid-parenthesis-string](https://github.com/shakthii24/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0881-boats-to-save-people](https://github.com/shakthii24/Leetcode/tree/master/0881-boats-to-save-people) |
 ## Quicksort
 |  |
@@ -172,6 +173,7 @@
 | [0392-is-subsequence](https://github.com/shakthii24/Leetcode/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/shakthii24/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shakthii24/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0678-valid-parenthesis-string](https://github.com/shakthii24/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0925-long-pressed-name](https://github.com/shakthii24/Leetcode/tree/master/0925-long-pressed-name) |
 ## Dynamic Programming
 |  |
@@ -183,6 +185,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shakthii24/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/shakthii24/Leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/shakthii24/Leetcode/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/shakthii24/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shakthii24/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Timsort
 |  |
@@ -207,6 +210,7 @@
 | [0032-longest-valid-parentheses](https://github.com/shakthii24/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/shakthii24/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/shakthii24/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0678-valid-parenthesis-string](https://github.com/shakthii24/Leetcode/tree/master/0678-valid-parenthesis-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -264,6 +268,7 @@
 | [0020-valid-parentheses](https://github.com/shakthii24/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/shakthii24/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/shakthii24/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/shakthii24/Leetcode/tree/master/0678-valid-parenthesis-string) |
 ## Backtracking
 |  |
 | ------- |
