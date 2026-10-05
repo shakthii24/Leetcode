@@ -176,6 +176,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/shakthii24/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0678-valid-parenthesis-string](https://github.com/shakthii24/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0925-long-pressed-name](https://github.com/shakthii24/Leetcode/tree/master/0925-long-pressed-name) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shakthii24/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -213,6 +214,7 @@
 | [0042-trapping-rain-water](https://github.com/shakthii24/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/shakthii24/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0678-valid-parenthesis-string](https://github.com/shakthii24/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shakthii24/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -271,6 +273,7 @@
 | [0022-generate-parentheses](https://github.com/shakthii24/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/shakthii24/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/shakthii24/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shakthii24/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Backtracking
 |  |
 | ------- |
