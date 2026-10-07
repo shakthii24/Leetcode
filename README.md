@@ -171,6 +171,7 @@
 | [0032-longest-valid-parentheses](https://github.com/shakthii24/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/shakthii24/Leetcode/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/shakthii24/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0301-remove-invalid-parentheses](https://github.com/shakthii24/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shakthii24/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/shakthii24/Leetcode/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/shakthii24/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -285,4 +286,9 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/shakthii24/Leetcode/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/shakthii24/Leetcode/tree/master/0301-remove-invalid-parentheses) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/shakthii24/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
