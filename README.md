@@ -154,6 +154,7 @@
 | [0678-valid-parenthesis-string](https://github.com/shakthii24/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0881-boats-to-save-people](https://github.com/shakthii24/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shakthii24/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/shakthii24/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Quicksort
 |  |
 | ------- |
@@ -181,6 +182,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shakthii24/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0925-long-pressed-name](https://github.com/shakthii24/Leetcode/tree/master/0925-long-pressed-name) |
 | [1021-remove-outermost-parentheses](https://github.com/shakthii24/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/shakthii24/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shakthii24/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Dynamic Programming
 |  |
@@ -222,6 +224,7 @@
 | [0856-score-of-parentheses](https://github.com/shakthii24/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shakthii24/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/shakthii24/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/shakthii24/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shakthii24/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
@@ -284,6 +287,7 @@
 | [0856-score-of-parentheses](https://github.com/shakthii24/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shakthii24/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/shakthii24/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/shakthii24/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shakthii24/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Backtracking
 |  |
