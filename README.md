@@ -65,11 +65,13 @@
 | [1004-max-consecutive-ones-iii](https://github.com/shakthii24/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shakthii24/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/shakthii24/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/shakthii24/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Enumeration
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/shakthii24/Leetcode/tree/master/0204-count-primes) |
 | [0829-consecutive-numbers-sum](https://github.com/shakthii24/Leetcode/tree/master/0829-consecutive-numbers-sum) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/shakthii24/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Number Theory
 |  |
 | ------- |
