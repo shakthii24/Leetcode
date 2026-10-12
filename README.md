@@ -28,6 +28,7 @@
 | ------- |
 | [0136-single-number](https://github.com/shakthii24/Leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/shakthii24/Leetcode/tree/master/0231-power-of-two) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/shakthii24/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Array
 |  |
 | ------- |
@@ -66,6 +67,7 @@
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shakthii24/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/shakthii24/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/shakthii24/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/shakthii24/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Enumeration
 |  |
 | ------- |
@@ -127,6 +129,7 @@
 | [0523-continuous-subarray-sum](https://github.com/shakthii24/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/shakthii24/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/shakthii24/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/shakthii24/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -161,6 +164,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shakthii24/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/shakthii24/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/shakthii24/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/shakthii24/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Quicksort
 |  |
 | ------- |
