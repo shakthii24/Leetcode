@@ -7,18 +7,32 @@ class Solution {
         }
         Arrays.sort(squareArr);
 
-        long sum = 0;
-        int min =  0, max = nums.length / 2;
+        long[] resArr = new long[nums.length];
+        int j = 0, k = 1;
+        int m = 0;
 
-        while(min < nums.length / 2 && max < nums.length){
-            sum += squareArr[max];
-            sum -= squareArr[min];
-            min++;
-            max++;
+        while(k < nums.length){
+            resArr[k] = squareArr[m];
+            k += 2;
+            m++;
         }
-        
-        if(nums.length % 2 != 0) sum += squareArr[max];
 
+        while(j < nums.length){
+            resArr[j] = squareArr[m];
+            j += 2;
+            m++;
+        }
+
+        System.out.println(Arrays.toString(squareArr));
+
+        long sum = 0;
+        for(int i=0;i<nums.length;i++){
+            if(i % 2 == 0){
+                sum += resArr[i];
+            }else{
+                sum -= resArr[i];
+            }
+        }
         return sum;
     }
 }
