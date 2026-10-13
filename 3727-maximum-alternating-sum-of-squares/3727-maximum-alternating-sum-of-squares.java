@@ -1,38 +1,24 @@
 class Solution {
-    public long maxAlternatingSum(int[] nums) {
-        long[] squareArr = new long[nums.length];
+    public long maxAlternatingSum(int[] squareArr) {
+        //long[] squareArr = new long[nums.length];
 
-        for(int i=0;i<nums.length;i++){
-            squareArr[i] = nums[i] * nums[i]; 
+        for(int i=0;i<squareArr.length;i++){
+            squareArr[i] = squareArr[i] * squareArr[i]; 
         }
         Arrays.sort(squareArr);
 
-        long[] resArr = new long[nums.length];
-        int j = 0, k = 1;
-        int m = 0;
-
-        while(k < nums.length){
-            resArr[k] = squareArr[m];
-            k += 2;
-            m++;
-        }
-
-        while(j < nums.length){
-            resArr[j] = squareArr[m];
-            j += 2;
-            m++;
-        }
-
-        System.out.println(Arrays.toString(squareArr));
-
         long sum = 0;
-        for(int i=0;i<nums.length;i++){
-            if(i % 2 == 0){
-                sum += resArr[i];
-            }else{
-                sum -= resArr[i];
-            }
+        int min =  0, max = squareArr.length / 2;
+
+        while(min < squareArr.length / 2 && max < squareArr.length){
+            sum += squareArr[max];
+            sum -= squareArr[min];
+            min++;
+            max++;
         }
+        
+        if(squareArr.length % 2 != 0) sum += squareArr[max];
+
         return sum;
     }
 }
