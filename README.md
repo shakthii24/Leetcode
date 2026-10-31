@@ -81,6 +81,7 @@
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/shakthii24/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/shakthii24/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/shakthii24/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3665-twisted-mirror-path-count](https://github.com/shakthii24/Leetcode/tree/master/3665-twisted-mirror-path-count) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/shakthii24/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/shakthii24/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3886-sum-of-sortable-integers](https://github.com/shakthii24/Leetcode/tree/master/3886-sum-of-sortable-integers) |
@@ -241,6 +242,7 @@
 | [0678-valid-parenthesis-string](https://github.com/shakthii24/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shakthii24/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shakthii24/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3665-twisted-mirror-path-count](https://github.com/shakthii24/Leetcode/tree/master/3665-twisted-mirror-path-count) |
 ## Timsort
 |  |
 | ------- |
@@ -315,6 +317,7 @@
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/shakthii24/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [1254-number-of-closed-islands](https://github.com/shakthii24/Leetcode/tree/master/1254-number-of-closed-islands) |
+| [3665-twisted-mirror-path-count](https://github.com/shakthii24/Leetcode/tree/master/3665-twisted-mirror-path-count) |
 ## Memoization
 |  |
 | ------- |
