@@ -76,6 +76,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/shakthii24/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/shakthii24/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1254-number-of-closed-islands](https://github.com/shakthii24/Leetcode/tree/master/1254-number-of-closed-islands) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/shakthii24/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shakthii24/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shakthii24/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shakthii24/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -132,6 +133,7 @@
 | [0881-boats-to-save-people](https://github.com/shakthii24/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0925-long-pressed-name](https://github.com/shakthii24/Leetcode/tree/master/0925-long-pressed-name) |
 | [0977-squares-of-a-sorted-array](https://github.com/shakthii24/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/shakthii24/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Binary Search
 |  |
 | ------- |
@@ -139,6 +141,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shakthii24/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/shakthii24/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/shakthii24/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/shakthii24/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shakthii24/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/shakthii24/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Hash Table
@@ -176,6 +179,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/shakthii24/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0881-boats-to-save-people](https://github.com/shakthii24/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/shakthii24/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/shakthii24/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shakthii24/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/shakthii24/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/shakthii24/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
