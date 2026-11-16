@@ -1,10 +1,10 @@
 class Solution {
     public String digitSum(String s, int k) {
-        String str = "";
         int sum = 0;
         int maxSum = 0;
         int size = 0;
         while(s.length() > k){
+        String str = "";
         for(int i=0;i<s.length();i++){
             int n = Character.getNumericValue(s.charAt(i));
             sum += n;
@@ -16,7 +16,6 @@ class Solution {
             }
         }
         s = str;
-        str = "";
       }
       return s;
     }
